@@ -2,7 +2,22 @@
 
 Our projects:
 
+
+
 <table>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/iron-bit/djangular-frontend">
+        <b>Blueddit</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/14decbaa-5d7f-4fff-8fcf-1dd30815b7ed" alt="2" style="width: 100%;aspect-ratio:16/9""></td>
+    <td><img src="https://github.com/user-attachments/assets/269a595d-0cdc-48d9-83ef-ff42ab0af10f" alt="2" style="width: 100%;aspect-ratio:16/9""></td>
+  </tr>
+
+  
   <tr>
     <td colspan="2" align="center">
       <a href="https://github.com/iron-bit/EclipseBar">
